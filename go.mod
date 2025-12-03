@@ -1,8 +1,8 @@
 module sigs.k8s.io/hydrophone
 
-go 1.24.0
+go 1.25.0
 
-toolchain go1.24.2
+toolchain go1.25.5
 
 require (
 	github.com/blang/semver/v4 v4.0.0
